@@ -8,7 +8,6 @@
 This code snippet automates the process of crawling product data from Lazada's TV & Video category specifically for products shipped from Ho Chi Minh City (HCM city). It uses Selenium with Python to interact with the website and extract desired information.
 
 ## :heart:**Main functions:**
-This code snippet automates the process of crawling product data from Lazada's TV & Video category specifically for products shipped from Ho Chi Minh City (HCM city). It uses Selenium with Python to interact with the website and extract desired information.
 
 	1.Setup: Initializes Selenium environment, sets up Chrome driver, and configures options.
 	2.Navigation: Opens the desired Lazada product page.
